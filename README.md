@@ -1,4 +1,3 @@
-<img width="3840" height="1158" alt="image" src="https://github.com/user-attachments/assets/e10942de-40a1-45d1-b8c8-7defaa1947ac" /># EnneadProcessor
 "AI Cognitive Framework (Three-Layer Reasoning Model) - Designed by a Non-Engineer with Structural Thinking"（AI構造思考フレームワーク（三層認知モデル） - 非エンジニアによる設計思想）
 
 
