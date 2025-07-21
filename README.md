@@ -56,6 +56,24 @@ Feel free to reach out or open an issue. 🙏
 
 ---
 
+💡 Career Note
+
+Although I'm currently working in a field unrelated to AI or programming,  
+I have a strong passion for AI structural design and prompt engineering.  
+I've built this framework entirely through daily dialogue with LLMs—without writing a single line of code.  
+
+If you're looking for someone with high logical thinking and design instincts  
+(who builds from concept rather than code), I'm open to collaboration, learning opportunities, or even career shifts into AI-related work.  
+
+現在はAIやプログラミングとは無関係の分野で働いていますが、  
+AI構造設計やプロンプトエンジニアリングに強い関心を持っています。  
+このフレームワークも、コードを書くことなくAIとの壁打ちだけで構築しました。  
+
+「コードではなく、概念から設計できる人材」をお探しの方がいれば、  
+コラボ・学習機会・あるいはAI関連分野へのキャリアシフトも前向きに検討中です。
+
+---
+
 ## 🛡 License & Credits
 
 - Free to use under MIT License  
