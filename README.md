@@ -73,3 +73,15 @@ Feel free to reach out or open an issue. 🙏
 
 > Contributions, forks, and pull requests welcome!  
 > 構造設計や改善案があればぜひ教えてください。
+
+---
+
+## 📜 使用条件 / Usage Conditions
+
+- 本リポジトリ内の構造・理論・プロンプトは、**商用でなければ自由に使用可能です**。
+- **改変版の再配布、またはこの場所以外での転載・再配布は禁止**します。
+- 使用する場合は**作者名（dagrasu）を明記**してください。
+
+> This framework and its prompt design are free to use **for non-commercial purposes** only.  
+> Redistribution (modified or unmodified) **outside this repository is not permitted**.  
+> Please **credit the original author: dagrasu** when referencing or using the contents.
