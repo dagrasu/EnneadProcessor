@@ -42,7 +42,7 @@ AIとの壁打ちの中から生み出した**三層構造のAI思考フレー�
 
 ## 🧠 Ennead Processor: 全体構造図
 
-![Ennead Processor:Overall Structural Diagram(層構造図)](./docs/img/Ennead Processor Image.png)
+![Ennead Processor:Overall Structural Diagram(層構造図)](./docs/img/Ennead%20Processor%20Image.png)
 
 This diagram visualizes the nine-layer cognitive model of the Ennead Processor,
 illustrating the sequential flow of information across each layer.
