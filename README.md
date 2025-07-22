@@ -40,6 +40,17 @@ AIとの壁打ちの中から生み出した**三層構造のAI思考フレー�
 
 思想・言葉・口調まで含め、AIに「賢く思考させる」ための設計です。
 
+## 🧠 Ennead Processor: 全体構造図
+
+![Ennead Processor:Overall Structural Diagram(層構造図)](./docs/img/Ennead Processor Image.png)
+
+This diagram visualizes the nine-layer cognitive model of the Ennead Processor,
+illustrating the sequential flow of information across each layer.
+It represents how internal reasoning processes are structured and executed within an AI system.
+
+この図はEnnead Processorの9層思考モデルの情報流れを視覚化したものであり、
+AIの内的推論プロセスを段階的に表現しています。
+
 ---
 
 ## 💼 Hiring? Want to Collaborate?
